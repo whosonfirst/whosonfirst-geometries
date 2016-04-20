@@ -4,9 +4,19 @@ _This document should still be considered a work-in-progress_
 
 ## Polygons
 
-### groundtruth
+### cloropleth
+
+### consensus
+
+_This is a placeholder label. It is a terrible name. We just haven't found a better one yet._
 
 ### display
+
+### geocode
+
+### groundtruth
+
+### reversegeocode
 
 ## Centroids
 
