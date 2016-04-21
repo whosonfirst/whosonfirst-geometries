@@ -1,5 +1,9 @@
 # whosonfirst-geometries
 
+Types of geometries in Who's On First, and their meaning.
+
+## Caveat
+
 _This document should still be considered a work-in-progress_
 
 ## Polygons
