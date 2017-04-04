@@ -26,18 +26,39 @@ _This is a placeholder label. It is a terrible name. We just haven't found a bet
 
 ## Centroids
 
-### geom: `common` The math centroid of the area polygon.
+### geom
 
-### intersection: `optional` n/a
+- `common`
+- The math centroid of the area polygon.
 
-### lbl: `common` Where the label should be displayed.
+### intersection
 
-### local: `optional` Where do locals from this place consider the "center".
+- `optional`
+- n/a
 
-### nav: `common-optional` Snapped to nearest road and used to provide accurate turn-by-turn directions and navigation ETAs (expected time of arrivals).
+### lbl
 
-### reversegeo: `common-optional` Used for point-in-polygon (PIP) processing.
+- `common`
+- Where the label should be displayed.
 
-### tourist: `optional` Tourists follow guides and flock towards famous attractions.
+### local
+
+- `optional`
+- Where do locals from this place consider the "center".
+
+### nav
+
+- `common-optional`
+- Snapped to nearest road and used to provide accurate turn-by-turn directions and navigation ETAs (expected time of arrivals).
+
+### reversegeo
+
+- `common-optional`
+- Used for point-in-polygon (PIP) processing.
+
+### tourist
+
+- `optional`
+- Tourists follow guides and flock towards famous attractions.
 
 ## See also
