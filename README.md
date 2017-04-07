@@ -8,7 +8,7 @@ _This document should still be considered a work-in-progress_
 
 ## Polygons
 
-_This section (polygons) is out of date and needs to be updated to describe the syntax for "alt" geometries._
+_This section (polygons) is out of date and needs to be updated to describe the syntax for "alt" geometries. See also: https://github.com/whosonfirst/whosonfirst-cookbook/blob/master/how_to/creating_alt_geometries.md_
 
 ### cloropleth
 
