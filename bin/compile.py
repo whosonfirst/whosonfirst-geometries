@@ -14,7 +14,7 @@ if __name__ == '__main__':
     bin = os.path.dirname(whoami)
     root = os.path.dirname(bin)
 
-    sources = os.path.join(root, 'sources')
+    geometries = os.path.join(root, 'geometries')
     spec = {}
 
     prefixes = {}
@@ -22,7 +22,7 @@ if __name__ == '__main__':
 
     required = ("id", "name", "prefix")
 
-    for (root, dirs, files) in os.walk(sources):
+    for (root, dirs, files) in os.walk(geometries):
 
         for f in files:
     
