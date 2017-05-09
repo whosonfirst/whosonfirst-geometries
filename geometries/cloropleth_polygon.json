@@ -1,0 +1,8 @@
+{
+	"id": 1108962127,
+	"name": "Cloropleth",
+	"label": "cloropleth",
+	"prefix": "cloropleth",
+	"type":"optional",
+	"description": "Used for shading or creating patterns in proportion to the measurement of the statistical variable being displayed on the map."
+}

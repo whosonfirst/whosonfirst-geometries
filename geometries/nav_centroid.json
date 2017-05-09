@@ -1,0 +1,8 @@
+{
+	"id": 1108962107,
+	"name": "Navigation",
+	"label": "navigation",
+	"prefix": "nav",
+	"type": "common-optional",
+	"description": "Snapped to nearest road and used to provide accurate turn-by-turn directions and navigation ETAs (expected time of arrivals)."
+}

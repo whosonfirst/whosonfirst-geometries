@@ -1,0 +1,8 @@
+{
+	"id": 1108962113,
+	"name": "Intersection",
+	"label": "intersection",
+	"prefix": "intersection",
+	"type": "optional",
+	"description": "The intersection in which a place or location falls."
+}

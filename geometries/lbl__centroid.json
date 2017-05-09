@@ -1,0 +1,8 @@
+{
+	"id": 1108962111,
+	"name": "Label",
+	"label": "label",
+	"prefix": "lbl",
+	"type": "common",
+	"description": "Where the label should be displayed."
+}

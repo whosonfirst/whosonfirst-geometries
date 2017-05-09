@@ -1,0 +1,8 @@
+{
+	"id": 1108962125,
+	"name": "Consensus",
+	"label": "consensus",
+	"prefix": "consensus",
+	"type": "optional",
+	"description": "An agreed-upon location."
+}

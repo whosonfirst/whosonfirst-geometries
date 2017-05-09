@@ -1,0 +1,8 @@
+{
+	"id": 1108962101,
+	"name": "Tourist",
+	"label": "tourist",
+	"prefix": "tourist",
+	"type": "optional",
+	"description": "Tourists follow guides and flock towards famous attractions. Generally, where tourists assume a place is."
+}
