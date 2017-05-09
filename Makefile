@@ -8,7 +8,7 @@ YMD = $(shell date "+%Y%m%d")
 all: spec docs
 
 archive: all
-	tar --exclude='.git*' --exclude='Makefile*' -cvjf $(dest)/$(WHOAMI)-$(YMD).tar.bz2 ./bin ./data ./sources ./LICENSE.md ./CONTRIBUTING.md ./README.md
+	tar --exclude='.git*' --exclude='Makefile*' -cvjf $(dest)/$(WHOAMI)-$(YMD).tar.bz2 ./bin ./data ./geometries ./LICENSE.md ./CONTRIBUTING.md ./README.md
 
 docs:
 	python ./bin/docs.py
@@ -25,5 +25,5 @@ internetarchive:
 	rm $(src)/$(WHOAMI)-$(YMD).tar.bz2
 
 spec:
-	python ./bin/compile.py > data/sources-spec-`date "+%Y%m%d"`.json
-	cp data/sources-spec-`date "+%Y%m%d"`.json data/sources-spec-latest.json
+	python ./bin/compile.py > data/geometries-spec-`date "+%Y%m%d"`.json
+	cp data/geometries-spec-`date "+%Y%m%d"`.json data/geometries-spec-latest.json
