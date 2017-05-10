@@ -20,7 +20,7 @@ if __name__ == '__main__':
     prefixes = {}
     names = {}
 
-    required = ("id", "name", "prefix")
+    required = ("id", "name")
 
     for (root, dirs, files) in os.walk(geometries):
 
@@ -44,16 +44,16 @@ if __name__ == '__main__':
                     sys.exit()
 
             name = data['name']
-            prefix = data['prefix']
+            #prefix = data['prefix']
 
             if name in names:
                 logging.error("%s is trying to claim name '%s' (already assigned to %s)" % (path, name, names[name]))
 
-            if prefix in prefixes:
-                logging.error("%s is trying to claim name '%s' (already assigned to %s)" % (path, prefix, prefixes[prefix]))
+           # if prefix in prefixes:
+           #     logging.error("%s is trying to claim name '%s' (already assigned to %s)" % (path, prefix, prefixes[prefix]))
 
             names[ name ] = path
-            prefixes[ prefix ] = path
+           # prefixes[ prefix ] = path
 
             spec[data['id']] = data
 

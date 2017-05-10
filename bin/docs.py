@@ -49,7 +49,7 @@ if __name__ == '__main__':
         if details.get('description'):
             docs.write("_%s_\n\n" % (details['description']))
 
-        for k in ('id', 'name', 'prefix', 'label', 'type'):
+        for k in ('id', 'name', 'label', 'type'):
 
             if details[k] == '':
                 continue
