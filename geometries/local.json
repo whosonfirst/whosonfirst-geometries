@@ -1,8 +1,7 @@
 {
 	"id": 1108962109,
-	"name": "Local",
+	"name": "local",
 	"label": "local",
-	"prefix": "local",
 	"type": "optional",
 	"description": "Where do locals from this place consider the 'center'?"
 }

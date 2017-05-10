@@ -1,8 +1,7 @@
 {
 	"id": 1108962123,
-	"name": "Display",
+	"name": "display",
 	"label": "display",
-	"prefix": "display",
 	"type": "common-optional",
 	"description": "Used purely for display purposes."
 }

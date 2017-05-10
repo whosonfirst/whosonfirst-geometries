@@ -1,8 +1,7 @@
 {
 	"id": 1108962103,
-	"name": "Reverse Geocode",
+	"name": "reverse geocode",
 	"label": "reversegeo",
-	"prefix": "revgeo",
 	"type": "common-optional",
 	"description": "Used for point-in-polygon (PIP) processing."
 }

@@ -1,8 +1,7 @@
 {
 	"id": 1108962119,
-	"name": "Geometry",
+	"name": "geometry",
 	"label": "geom",
-	"prefix": "geom",
 	"type": "common",
 	"description": "The math centroid of the area polygon."
 }

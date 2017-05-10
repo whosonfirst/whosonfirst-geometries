@@ -1,8 +1,7 @@
 {
 	"id": 1108962115,
-	"name": "Groundtruth",
+	"name": "groundtruth",
 	"label": "groundtruth",
-	"prefix": "groundtruth",
 	"type": "optional",
 	"description": "The verified, groundtruthed location of a place."
 }
