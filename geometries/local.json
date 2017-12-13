@@ -3,5 +3,5 @@
 	"name": "local",
 	"label": "local",
 	"type": "optional",
-	"description": "Where do locals from this place consider the 'center'?"
+	"description": "Where do locals from this place consider the 'center'? Generally used to describe a centroid."
 }

@@ -3,5 +3,5 @@
 	"name": "display",
 	"label": "display",
 	"type": "common-optional",
-	"description": "Used purely for display purposes."
+	"description": "Used purely for display purposes. Generally used to describe alt-geometry polygons."
 }

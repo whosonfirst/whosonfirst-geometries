@@ -3,5 +3,5 @@
 	"name": "intersection",
 	"label": "intersection",
 	"type": "optional",
-	"description": "The intersection in which a place or location falls."
+	"description": "The intersection in which a place or location falls. Generally used to describe a centroid."
 }

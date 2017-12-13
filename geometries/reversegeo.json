@@ -3,5 +3,5 @@
 	"name": "reverse geocode",
 	"label": "reversegeo",
 	"type": "common-optional",
-	"description": "Used for point-in-polygon (PIP) processing."
+	"description": "Used for point-in-polygon (PIP) processing. Generally used to describe a centroid or an alt-geometry polygon."
 }

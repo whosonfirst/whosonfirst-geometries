@@ -3,5 +3,5 @@
 	"name": "groundtruth",
 	"label": "groundtruth",
 	"type": "optional",
-	"description": "The verified, groundtruthed location of a place."
+	"description": "The verified, groundtruthed location of a place. Generally used to describe alt-geometry polygons."
 }

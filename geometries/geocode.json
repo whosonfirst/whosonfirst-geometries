@@ -3,5 +3,5 @@
 	"name": "geocode",
 	"label": "geocode",
 	"type": "common-optional",
-	"description": "Used when geocoding a location."
+	"description": "Used when geocoding a location. Generally used to describe alt-geometry polygons."
 }

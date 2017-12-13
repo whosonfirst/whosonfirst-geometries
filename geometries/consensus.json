@@ -3,5 +3,5 @@
 	"name": "consensus",
 	"label": "consensus",
 	"type": "optional",
-	"description": "An agreed-upon location."
+	"description": "An agreed-upon location. Generally used to describe alt-geometry polygons."
 }

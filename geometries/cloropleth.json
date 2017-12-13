@@ -3,5 +3,5 @@
 	"name": "cloropleth",
 	"label": "cloropleth",
 	"type":"optional",
-	"description": "Used for shading or creating patterns in proportion to the measurement of the statistical variable being displayed on the map."
+	"description": "Used for shading or creating patterns in proportion to the measurement of the statistical variable being displayed on the map. Generally used to describe alt-geometry polygons."
 }

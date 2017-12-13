@@ -3,5 +3,5 @@
 	"name": "navigation",
 	"label": "nav",
 	"type": "common-optional",
-	"description": "Snapped to nearest road and used to provide accurate turn-by-turn directions and navigation ETAs (expected time of arrivals)."
+	"description": "Snapped to nearest road and used to provide accurate turn-by-turn directions and navigation ETAs (expected time of arrivals). Generally used to describe a centroid."
 }

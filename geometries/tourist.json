@@ -3,5 +3,5 @@
 	"name": "tourist",
 	"label": "tourist",
 	"type": "optional",
-	"description": "Tourists follow guides and flock towards famous attractions. Generally, where tourists assume a place is."
+	"description": "Tourists follow guides and flock towards famous attractions. Generally, where tourists assume a place is. Generally used to describe a centroid."
 }
