@@ -1,0 +1,7 @@
+{
+	"id": 1108962115,
+	"name": "groundtruth",
+	"label": "groundtruth",
+	"type": "optional",
+	"description": "The verified, groundtruthed location of a place. Generally used to describe alt-geometry polygons."
+}

@@ -1,0 +1,7 @@
+{
+	"id": 1108962113,
+	"name": "intersection",
+	"label": "intersection",
+	"type": "optional",
+	"description": "The intersection in which a place or location falls. Generally used to describe a centroid. In Whos On First, intersection is both a placetype and a prefix for a latitude/longitude value pair."
+}

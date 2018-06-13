@@ -1,0 +1,7 @@
+{
+	"id": 1108962119,
+	"name": "geometry",
+	"label": "geom",
+	"type": "common",
+	"description": "The math centroid of the area polygon. Generally used to describe a centroid."
+}

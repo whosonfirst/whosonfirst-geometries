@@ -1,0 +1,7 @@
+{
+	"id": 1108962111,
+	"name": "label",
+	"label": "lbl",
+	"type": "common",
+	"description": "Where the label should be displayed. Generally used to describe a centroid."
+}

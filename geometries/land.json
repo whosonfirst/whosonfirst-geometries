@@ -1,0 +1,7 @@
+{
+	"id": 1108968883,
+	"name": "land",
+	"label": "land",
+	"type": "optional",
+	"description": "The largest area of a geometry, minus outlying islands. Think San Francisco, minus Treasure Island and the Farallon Islands. Generally used to describe alt-geometry polygons."
+}
