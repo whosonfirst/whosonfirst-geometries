@@ -7,7 +7,6 @@ At this stage, we encourage you to [submit issues](https://github.com/whosonfirs
 ## Getting started
 
 * Make sure you have a [GitHub account](https://github.com/signup/free)
-* Optional: Get a [Mapzen developer account](https://mapzen.com/developers/sign_in)
 * Submit a ticket for your issue, assuming one does not already exist.
   * Clearly describe the issue including steps to reproduce when it is a bug.
   * If you are recommending a solution, please include as many references as possible.
