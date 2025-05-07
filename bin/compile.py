@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 import os
 import sys
@@ -34,7 +34,7 @@ if __name__ == '__main__':
             try:
                 fh = open(path, 'r')
                 data = json.load(fh)
-            except Exception, e:
+            except Exception(e):
                 logging.error("failed to parse %s, because %s" % (path, e))
                 sys.exit()
 
@@ -57,5 +57,5 @@ if __name__ == '__main__':
 
             spec[data['id']] = data
 
-    print json.dumps(spec)
+    print(json.dumps(spec))
     sys.exit()

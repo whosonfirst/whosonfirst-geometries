@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 import os
 import sys
@@ -29,7 +29,7 @@ if __name__ == '__main__':
         lookup[details['name']] = id
 
     names = lookup.keys()
-    names.sort()
+    sorted(names)
 
     now = datetime.datetime.now()
     ymd = now.strftime("%Y-%m-%d")
